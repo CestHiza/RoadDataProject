@@ -98,7 +98,7 @@ Before you begin, ensure you have met the following requirements:
 
 ## Author
 
-* Hiza Mvuendy (Update with your name/GitHub profile if desired)
+* Hiza Mvuendy
 
 ## License
 
