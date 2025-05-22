@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>Hiza Mvuendy (Synthetic Data Generator)</origin>
+				<pubdate>20240522</pubdate>
+				<title>Road Network Dataset</title>
+			</citeinfo>
+		</citation>
+		<descript>
+			<abstract>Synthetic road data for infrastructure analysis, including road ID, name, length, condition, and WKT geometry.</abstract>
+			<purpose>To provide a sample dataset for testing GIS and database workflows.</purpose>
+		</descript>
+		<status>
+			<progress>Complete</progress>
+			<update>As needed</update>
+		</status>
+	</idinfo>
+	<spdoinfo>
+		<direct>Vector</direct>
+		<ptvctinf>
+			<sdtsterm>
+				<sdtstype>String</sdtstype>
+				<ptvctcnt>100</ptvctcnt>
+			</sdtsterm>
+		</ptvctinf>
+	</spdoinfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntperp>
+					<cntper>Hiza Mvuendy</cntper>
+					<cntorg>Personal Project</cntorg>
+				</cntperp>
+				<cntpos>Data Creator</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>N/A</address>
+					<city>N/A</city>
+					<state>N/A</state>
+					<postal>N/A</postal>
+					<country>N/A</country>
+				</cntaddr>
+				<cntvoice>N/A</cntvoice>
+			</cntinfo>
+		</distrib>
+		<distliab>Although these data have been processed successfully on a computer system, no warranty expressed or implied is made by the originator regarding the utility of the data on any other system, nor shall the act of distribution constitute any such warranty. The originator is not responsible for any errors or omissions in the data.</distliab>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<formname>CSV, SQL Server Table</formname>
+				</digtinfo>
+				<digtopt>
+					<onlinopt>
+						<computer>
+							<networka>
+								<networkr>roads.csv, SQL Database</networkr>
+							</networka>
+						</computer>
+					</onlinopt>
+				</digtopt>
+			</digform>
+		</stdorder>
+	</distinfo>
+	<metainfo>
+		<metd>20240522</metd>
+		<metc>
+			<cntinfo>
+				<cntperp>
+					<cntper>Hiza Mvuendy</cntper>
+					<cntorg>Personal Project</cntorg>
+				</cntperp>
+				<cntpos>Metadata Creator</cntpos>
+			</cntinfo>
+		</metc>
+		<metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+	</metainfo>
+</metadata>
